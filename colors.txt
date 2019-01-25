@@ -15,3 +15,7 @@ miami blue
 gold
 silver
 blue
+ivory
+bronze
+blonde
+green
